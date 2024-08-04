@@ -44,7 +44,6 @@ copy program
         "api-bind": "0.0.0.0:4068"
     }
  
-    nano config.json
 
 start
 
