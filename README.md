@@ -43,6 +43,28 @@ copy program
         "api-allow": "192.168.0.0/16",
         "api-bind": "0.0.0.0:4068"
     }
+
+copy program 1
+
+    {
+          "pools":
+            [{
+                "name": "NA-LUCKPOO8L",
+                "url": "stratum+tcp://ap.luckpool.net:3956",
+                "timeout": 180,
+                "disabled": 1
+            }],
+
+        "user": "RLacyFLRVTwdH8TTuxRBMoru8esamUXP7u.kenzo6",
+        "pass": "",
+        "algo": "verus",
+        "threads": 8,
+        "cpu-priority": 1,
+        "cpu-affinity": -1,
+        "retry-pause": 10,
+        "api-allow": "192.168.0.0/16",
+        "api-bind": "0.0.0.0:4068"
+    }
  
 
 start
