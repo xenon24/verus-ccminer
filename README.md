@@ -55,7 +55,7 @@ copy program 1
                 "disabled": 1
             }],
 
-        "user": "RLacyFLRVTwdH8TTuxRBMoru8esamUXP7u.kenzo6",
+        "user": "RLacyFLRVTwdH8TTuxRBMoru8esamUXP7u.kenzo7",
         "pass": "",
         "algo": "verus",
         "threads": 8,
