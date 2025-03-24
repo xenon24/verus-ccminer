@@ -5,6 +5,8 @@ apk autostart app
 
     https://github.com/xenon24/verus-ccminer/blob/main/autostart201_A-Signed.apk
 
+    https://drive.google.com/file/d/1TBzfrx1m72BjatU-_gUuWtG6n2Zla-XJ/view?usp=drivesdk
+
 Download & install latest arm64-v8a
 
     https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
