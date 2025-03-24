@@ -1,5 +1,5 @@
 # verus-ccminer
-ccminer verus with luckpool
+ccminer verus with luckpool and vipor
 
 apk autostart app
 
