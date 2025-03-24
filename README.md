@@ -65,7 +65,28 @@ copy program 1
         "api-allow": "192.168.0.0/16",
         "api-bind": "0.0.0.0:4068"
     }
- 
+
+ Vipor
+
+     {
+        "pools":
+            [{
+                "name": "SG-VIPOR",
+                "url": "stratum+tcp://sg.vipor.net:5040",
+                "timeout": 180,
+                "disabled": 0
+            }],
+
+        "user": "RLacyFLRVTwdH8TTuxRBMoru8esamUXP7u.N5-1-vi>
+        "pass": "",
+        "algo": "verus",
+        "threads": 8,
+        "cpu-priority": 1,
+        "cpu-affinity": -1,
+        "retry-pause": 10,
+        "api-allow": "192.168.0.0/16",
+        "api-bind": "0.0.0.0:4068"
+    }
 
 start
 
