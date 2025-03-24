@@ -83,7 +83,7 @@ copy program 1
                 "disabled": 0
             }],
 
-        "user": "RLacyFLRVTwdH8TTuxRBMoru8esamUXP7u.N5-1-vi>
+        "user": "RLacyFLRVTwdH8TTuxRBMoru8esamUXP7u.N5-1-vi",
         "pass": "",
         "algo": "verus",
         "threads": 8,
