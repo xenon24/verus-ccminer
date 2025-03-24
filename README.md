@@ -104,4 +104,5 @@ setting auto run
 
 up code 
 
+    termux-wake-lock
     cd ccminer/&&./start.sh
