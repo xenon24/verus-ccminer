@@ -2,6 +2,7 @@
 ccminer verus with luckpool
 
 apk autostart app
+
     https://github.com/xenon24/verus-ccminer/blob/main/autostart201_A-Signed.apk
 
 Download & install latest arm64-v8a
