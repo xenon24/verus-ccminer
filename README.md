@@ -1,6 +1,9 @@
 # verus-ccminer
 ccminer verus with luckpool
 
+apk autostart app
+https://github.com/xenon24/verus-ccminer/blob/main/autostart201_A-Signed.apk
+
 Download & install latest arm64-v8a
 
     https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
