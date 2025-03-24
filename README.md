@@ -13,8 +13,9 @@ Download & install latest arm64-v8a
 
 Get Termux ready
 
-    yes | pkg update && pkg upgrade
-    yes | pkg install libjansson wget nano
+    yes | pkg update -y
+    yes | pkg upgrade -y
+    yes | pkg install libjansson wget nano -y
 
 Download ccminer, config, start
 
